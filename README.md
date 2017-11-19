@@ -8,7 +8,7 @@ can be implemented Mamdani-type and Sugeno-type. In this project the Mamdani typ
 FIS is used that requires finding the centroid of a two-dimensional shape by integrating
 across a continuously varying function.\
 ## General Fuzzy Logic Controller Block Diagram
-![index](https://user-images.githubusercontent.com/15217992/32987386-58c904ae-cd10-11e7-9739-ae7b08b3ff71.png)\
+![index](https://user-images.githubusercontent.com/15217992/32987386-58c904ae-cd10-11e7-9739-ae7b08b3ff71.png)
 
 Traingular Membership functions were used both for the input and the output signal (See Fig).
 
